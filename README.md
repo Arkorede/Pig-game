@@ -9,3 +9,5 @@
 * A player loses his ENTIRE score when he rolls two 6 in a row. After that, it's the next player's turn.
 * The player can choose to 'hold', which means that his ROUND score gets added to his GLOBAL score. After that, its the next player's turn.
 * The first player to reach the winning score set by the players or 100 points on GLOBAL score wins the game. 
+
+It is live at: https://arkorede.github.io/Pig-game/
